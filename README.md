@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Lee</h1>
-<h3 align="center">A 3rd year CS student at Georgia Tech, passionate about full-stack development and machine learning</h3>
+<h3 align="center">A 4th year CS student at Georgia Tech, passionate about backend development and AI engineering</h3>
 
 - 🔭 I’m currently working on **an educational VR environment with computer vision techniques to enable safe training of construction workers**
 
